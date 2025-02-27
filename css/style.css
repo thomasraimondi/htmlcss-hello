@@ -1,0 +1,12 @@
+div {
+    margin-top: 20px;
+}
+
+main>h1 {
+    height: 300px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
