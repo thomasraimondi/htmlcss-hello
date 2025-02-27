@@ -2,11 +2,12 @@ div {
     margin-top: 20px;
 }
 
-main>h1 {
-    height: 300px;
-    text-align: center;
+main {
+    display: flex;
+    flex-direction: column;
 }
 
 h1 {
     font-size: 100px;
+    align-items: center;
 }
